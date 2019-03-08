@@ -1,8 +1,8 @@
 {
-  "name": "atom-counter",
+  "name": "widget-counter",
   "main": "index",
   "version": "0.0.3",
-  "description": "A widget counter on the status bar.  Originally as a joke.  Originally created by AlynxZhou.",
+  "description": "A widget counter on the status bar.  Originally as a joke and originally created by AlynxZhou (thank you).",
   "keywords": [
     "counter",
     "joke",

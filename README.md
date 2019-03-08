@@ -1,4 +1,4 @@
-AtomCounter
+WidgetCounter
 ===========
 
 A counter for the joke created by AlynxZhou.

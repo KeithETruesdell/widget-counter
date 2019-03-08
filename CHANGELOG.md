@@ -2,6 +2,7 @@
 * Added Keymap for quick counting and reset
 * Added Reset function
 * Code Changed to JS isntead of CoffeeScript (sorry)
+* Remaned to Widget Counter
 
 ## 0.0.2
 
