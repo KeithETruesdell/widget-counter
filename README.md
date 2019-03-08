@@ -1,7 +1,7 @@
-WidgetCounter
+# WidgetCounter
 ===========
 
-A counter for the joke created by AlynxZhou.
+A widget counter intended as a joke originally created by AlynxZhou.
 
 ## The Joke
 
@@ -11,14 +11,17 @@ A counter for the joke created by AlynxZhou.
 
 - English Version Translated by AlynxZhou
 
-	I saw a counter on Hackghost's desktop showing a number "233", and I asked him what it means curiously. He said "That represents how many times I was interrupted by idiots today". After speaking he pressed the button of counter again, and then the number became "234".
+	I saw a counter on Hackghost's desktop showing a number "233", and I asked him what it means curiously. He said "That represents how many times I was interrupted by idiots today". After speaking he pressed the button of the counter again, and then the number became "234".
 
 ## Usage
 
-Click the counter on the status bar to add 1 and count **WHAT THE FUCK** you want to count, including your coding hours, your drinking times, your fucking fucking times, your fucking fucking this counter times, etc.
+Click the counter on the status bar to add 1 and count a **WIDGET** you want to count, including your coding hours, your drinking times, times interupted, times your coworker coughed in your face, etc.
 
-It's a meta-counter that can count every thing you did with/without Atom, a hackable text editor for the 21st centery, with a fuckable counter.
+You can edit the name of the counter to be more appropriate, or more discrete as well.  
 
+It's a meta-counter that can count every thing you did with/without Atom, a hackable text editor for the 21st centery, with a hackable counter.
+
+## Images  
 ![They say I need an image for my package.](./usage.png)
 
 ## License
