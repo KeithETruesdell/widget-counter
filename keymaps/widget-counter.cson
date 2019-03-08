@@ -1,4 +1,4 @@
 'atom-workspace':
-  'ctrl-alt-+': 'atom-counter:AtomCounter'
-  'ctrl-alt--': 'atom-counter:AtomCounter'
-  'ctrl-alt-0': 'atom-counter:AtomCounter'
+  'ctrl-alt-+': 'widget-counter:AtomCounterInc'
+  'ctrl-alt--': 'widget-counter:WidgetCounterDec'
+  'ctrl-alt-0': 'widget-counter:WidgetCounterReset'
