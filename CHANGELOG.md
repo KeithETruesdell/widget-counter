@@ -3,6 +3,7 @@
 * Added Reset function
 * Code Changed to JS isntead of CoffeeScript (sorry)
 * Remaned to Widget Counter
+* Updated Readme
 
 ## 0.0.2
 
