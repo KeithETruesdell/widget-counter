@@ -1,4 +1,4 @@
-# WidgetCounter
+# Widget Counter
 ===========
 
 A widget counter intended as a joke originally created by AlynxZhou.
