@@ -5,17 +5,19 @@ class AtomCounter
   constructor: () ->
     @statusBar = null
     @value = atom.config.get("atom-counter.value")
+    @name = atom.config.get("atom-counter.name")
     @subscriptions = new CompositeDisposable()
     @element = document.createElement("div")
     @element.classList.add("atom-counter", "inline-block")
     @counterElement = document.createElement("span")
     @counterElement.classList.add("atom-counter-value")
     @element.appendChild(@counterElement)
-    @counterElement.textContent = "Counter: #{@value}"
+    @counterElement.textContent = "#{@name}: #{@value}"
     @subscriptions.add(
       atom.config.onDidChange("atom-counter.value", () =>
         @value = atom.config.get("atom-counter.value")
-        @counterElement.textContent = "Counter: #{@value}"
+        @name = atom.config.get("atom-counter.name")
+        @counterElement.textContent = "#{@name}: #{@value}"
       )
     )
 

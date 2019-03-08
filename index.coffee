@@ -3,6 +3,12 @@ AtomCounter = require(path.join(__dirname, "lib", "atom-counter"))
 
 module.exports =
   config: {
+    "name": {
+      "type": "string",
+      "title": "Counter Name",
+      "description": "Name to display of the counter",
+      "default": "Counter"
+    },
     "value": {
       "type": "integer",
       "title": "Counter Value",

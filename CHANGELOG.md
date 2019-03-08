@@ -1,6 +1,6 @@
 ## 0.0.3 - Forked Repo
-* Every feature added
-* Every bug fixed
+* Added Keymap for quick counting and reset
+* Added Reset function
 
 ## 0.0.2
 
