@@ -1,17 +1,27 @@
 {
   "name": "widget-counter",
-  "main": "index",
+  "main": "./lib/widget-counter",
   "version": "0.0.3",
   "description": "A widget counter on the status bar.  Originally as a joke and created by AlynxZhou (thank you).",
+  "homepage": "https://github.com/KeithETruesdell/widget-counter#readme",
   "keywords": [
     "counter",
     "joke",
     "interrupt"
   ],
-  "repository": "https://github.com/AlynxZhou/atom-counter",
+  "repository": "https://github.com/KeithETruesdell/widget-counter",
   "license": "MIT",
+  "optionalDependencies": {},
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
+  },
+  "author": {
+    "name": "Keith E. Truesdell",
+    "email": "widget-counter@gmail.com",
+    "url": "https://github.com/KeithETruesdell"
+  },
+  "bugs": {
+    "url": "https://github.com/KeithETruesdell/widget-counter/issues"
   },
   "dependencies": {},
   "consumedServices": {
