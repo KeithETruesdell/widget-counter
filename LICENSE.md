@@ -1,4 +1,6 @@
-Copyright (c) 2017 AlynxZhou
+The MIT License (MIT)
+
+Copyright (c) 2019 Keith Truesdell (https://github.com/KeithETruesdell)
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

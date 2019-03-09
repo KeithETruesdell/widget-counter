@@ -1,5 +1,5 @@
 # Widget Counter
-===========
+-----
 
 A widget counter intended as a joke originally created by AlynxZhou.
 
@@ -15,11 +15,11 @@ A widget counter intended as a joke originally created by AlynxZhou.
 
 ## Usage
 
-Click the counter on the status bar to add 1 and count a **WIDGET** you want to count, including your coding hours, your drinking times, times interupted, times your coworker coughed in your face, etc.
+Click the counter on the status bar to add 1 and count a **WIDGET** you want to count, including your coding hours, your drinking times, times interupted, times your coworker coughed in your face, etc.  
 
 You can edit the name of the counter to be more appropriate, or more discrete as well.  
 
-It's a meta-counter that can count every thing you did with/without Atom, a hackable text editor for the 21st centery, with a hackable counter.
+It's a meta-counter that can count every thing you did with/without Atom, a hackable text editor for the 21st centery, with a hackable counter.  
 
 ## Images  
 ![They say I need an image for my package.](./usage.png)
