@@ -27,3 +27,6 @@ It's a meta-counter that can count every thing you did with/without Atom, a hack
 ## License
 
 MIT
+
+good example of readme
+https://atom.io/packages/refactor

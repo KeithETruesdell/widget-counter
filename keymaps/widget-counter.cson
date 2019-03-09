@@ -1,4 +1,4 @@
 'atom-workspace':
-  'ctrl-alt-+': 'widget-counter:increment'
-  'ctrl-alt--': 'widget-counter:decrement'
-  'ctrl-alt-0': 'widget-counter:reset'
+  'ctrl-alt-up': 'widget-counter:increment'
+  'ctrl-alt-down': 'widget-counter:decrement'
+  'ctrl-alt-left': 'widget-counter:reset'
