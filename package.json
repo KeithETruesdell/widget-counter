@@ -24,13 +24,6 @@
     "url": "https://github.com/KeithETruesdell/widget-counter/issues"
   },
   "dependencies": {},
-  "activationCommands": {
-	  "atom-workspace": [
-		  "widget-counter:increment",
-          "widget-counter:decrement",
-          "widget-counter:reset"
-	  ]
-  },
   "consumedServices": {
     "status-bar": {
       "versions": {
