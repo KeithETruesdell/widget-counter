@@ -23,7 +23,7 @@ A great little tool to help count things, whether its a joke or soemthing a bit 
 
 Click the counter on the status bar to add 1 and count a **WIDGET** you want to count, including your coding hours, your drinking times, times interupted, times your coworker coughed in your face, etc.  
 Reset the counter to 0 in the settigs.  Additionally, you can use the hotkeys to reset things, or use them to quickly increment and decrement the count.
-Use the settings to also change the name of the counter displayed in the statusbar.
+Use the settings to also change the name of the counter displayed in the statusbar.  
 
 Click the counter area in the lower right on the status bar.
 ![Click the counter area in the lower right on the status bar](img/counter-click.gif)
