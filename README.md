@@ -34,6 +34,9 @@ You can edit the name of the counter to be more appropriate, or more discrete as
 Using the hotkeys to quickly increment, decrement and reset everything.
 ![Using the hotkeys to quickly increment, decrement and reset everything.](img/counter-hot-keys.gif)
 
+Change color of widget counter, both the foreground and background.  Accepts standard color words, and html hex values.
+![Change color of the widget counter](img/counter-color-change.png)
+
 ## Images  
 ![Original screenshot](img/usage.png)
 
@@ -46,11 +49,11 @@ Using the hotkeys to quickly increment, decrement and reset everything.
 4. Use the Hotkey `ctrl-shift-up/uparrow` to increment
 5. Use the hotkey `ctrl-shift-down/downarrow` to decrement 
 6. Use the hotkey `ctrl-shift-left/leftarrow` to reset to zero
- 
+7. Ability to customize and change the foreground and background of the counter area
+
 ## To Do
 
 - Connect to Slack (optional)
-- Change color of widget counter 
 - Support for multiple widgets 
 - ???
 
@@ -60,6 +63,7 @@ Any other feature requests, please go to the GitHub Issues page and submit a fea
 ## Issues  
 
 The application is hosted on GitHub.  Please go to the GitHub Issues page, search for your issue.  If you see the same issue listed, please comment and add to the thread.  Otherwise, feel free to add another issue.
+**NOTE:**  
 Hotkeys / keymap / keybindings I found were a bit tricky.  I wanted to use `ctrl-alt-up`,`ctrl-alt-down`,`ctrl-alt-left` or `ctrl-alt-+`,`ctrl-alt--`,`ctrl-alt-0`.  In general, there seems to be some issues with `ctrl-alt-[arrow key]` ceaslessly firing if you hold down the `ctrl-alt` and alternate between `up` and `down` arrows, causing issues with the program.  There are other forums and posts and issues on other atom.io repos and such that people have had the same or similar issue.  The 'ctrl-alt-+` and ctrl-alt--` turned out to be an annoyance because of different keyboards.  Some keyboards with a 9-pad recognize the `-` and `+` as the same when `ctrl` or `alt` or both are pressed and others do not.  Some recognize it as `insert` or `end` or something else, causing some issues and inconsistent tests.  I opted for the `ctrl-shift` instead.  This seems to work across the board.  
   
 
