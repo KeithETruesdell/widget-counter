@@ -50,11 +50,11 @@ Change color of widget counter, both the foreground and background.  Accepts sta
 5. Use the hotkey `ctrl-shift-down/downarrow` to decrement 
 6. Use the hotkey `ctrl-shift-left/leftarrow` to reset to zero
 7. Ability to customize and change the foreground and background of the counter area
+8. Connect to Slack (optional), add token and message and the slack channel to the settings, and it will post new counts there  
 
 ## To Do
 
-- Connect to Slack (optional)
-- Support for multiple widgets 
+- Support for multiple widgets ???
 - ???
 
 Any other feature requests, please go to the GitHub Issues page and submit a feature request, or join the community and support the project by contributing.

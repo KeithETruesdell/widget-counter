@@ -1,6 +1,6 @@
 ## [1.4.0]	2019-03-
 ----------------------
-* Slack "integration"
+* Slack "integration" - post messages into slack channel using token
 
 ## [1.3.1]	2019-03-10
 ----------------------
