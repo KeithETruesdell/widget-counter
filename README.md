@@ -1,4 +1,12 @@
 # Widget Counter
+[![Last Commit](https://img.shields.io/github/last-commit/KeithETruesdell/widget-counter/master.svg?style=flat-square)](https://img.shields.io/github/last-commit/KeithETruesdell/widget-counter/master.svg?style=flat-square)
+[![Installs!](https://img.shields.io/apm/dm/widget-counter.svg?style=flat-square)](https://atom.io/packages/widget-counter)
+[![Version!](https://img.shields.io/apm/v/widget-counter.svg?style=flat-square)](https://atom.io/packages/widget-counter)
+[![License](https://img.shields.io/apm/l/widget-counter.svg?style=flat-square)](https://github.com/KeithETruesdell/widget-counter/blob/master/LICENSE.md)  
+
+[![GitHub stars](https://img.shields.io/github/stars/KeithETruesdell/widget-counter.svg?style=social&label=Star)](https://github.com/KeithETruesdell/widget-counter)
+[![GitHub forks](https://img.shields.io/github/forks/KeithETruesdell/widget-counter.svg?style=social&label=Fork)](https://github.com/KeithETruesdell/widget-counter)  
+
 
 It's a meta-counter that can count every thing you do with or without Atom, a hackable text editor for the 21st centery, with a hackable counter.  
 A widget counter intended as a joke originally created by AlynxZhou.  
@@ -78,3 +86,16 @@ Pull requests are welcome.  Please see the guidelines in the CONTRIBUTING.md doc
 ## License
 
 MIT
+
+## Thank you  
+
+A special **THANK YOU** to all those that helped with snippett and the contributors of this project!
+
+[Alynx Zhou](https://github.com/AlynxZhou) (Original creator - thank you!)
+
+
+## Donations
+
+[![Beerpay](https://beerpay.io/KeithETruesdell/widget-counter/badge.svg?style=flat-square)](https://beerpay.io/KeithETruesdell/widget-counter)
+[![Beerpay](https://beerpay.io/KeithETruesdell/widget-counter/make-wish.svg?style=flat-square)](https://beerpay.io/KeithETruesdell/widget-counter?focus=wish)
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=KeithETruesdell&url=https://github.com/KeithETruesdell/widget-counter&title=widget-counterk&language=&tags=github&category=software)
