@@ -63,7 +63,7 @@ Change color of widget counter, both the foreground and background.  Accepts sta
 ## To Do
 
 - Support for multiple widgets ???
-- Double posting messages to slack
+
 
 Any other feature requests, please go to the GitHub Issues page and submit a feature request, or join the community and support the project by contributing.
 
