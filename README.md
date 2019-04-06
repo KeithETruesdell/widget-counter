@@ -49,7 +49,7 @@ Change color of widget counter, both the foreground and background.  Accepts sta
 ![Original screenshot](img/usage.png)
 
 
-## Feature List 
+## Features 
 
 1. Click the counter on the bottom status bar to increment the count
 2. Use the settings to change the display name of the counter
@@ -63,7 +63,7 @@ Change color of widget counter, both the foreground and background.  Accepts sta
 ## To Do
 
 - Support for multiple widgets ???
-- ???
+
 
 Any other feature requests, please go to the GitHub Issues page and submit a feature request, or join the community and support the project by contributing.
 
@@ -82,11 +82,12 @@ Please feel free to disable this or change this to suit your needs.
 ## Contributing
 
 Pull requests are welcome.  Please see the guidelines in the CONTRIBUTING.md document.  This community does have a code of conduct associated with contributions.  I am open to changes, updates and fixes.  Please, open an issue first to discuss what the change is, and then follow the guidelines.  
-
+Always feel free to help out, whether its filing out [a bug report](https://github.com/KeithETruesdell/widget-counter/issues/new?labels=bug), [a feature request](https://github.com/KeithETruesdell/widget-counter/issues/new?labels=enhancement), working on an update or even forking your own version and making it better.  
+Atom's [contributing guide](https://github.com/atom/atom/blob/master/CONTRIBUTING.md) will help get you started while the [guide for contributing to packages](https://github.com/atom/atom/blob/master/docs/contributing-to-packages.md) has some extra information.
 
 ## License
 
-MIT
+MIT Licesnse.  See the the [license](https://github.com/KeithETruesdell/widget-counter/LISENCE.md) for more details.
 
 ## Thank you  
 
@@ -97,6 +98,6 @@ A special **THANK YOU** to all those that helped with snippett and the contribut
 
 ## Donations
 
-[![Beerpay](https://beerpay.io/KeithETruesdell/widget-counter/badge.svg?style=flat-square)](https://beerpay.io/KeithETruesdell/widget-counter)
-[![Beerpay](https://beerpay.io/KeithETruesdell/widget-counter/make-wish.svg?style=flat-square)](https://beerpay.io/KeithETruesdell/widget-counter?focus=wish)
+[![Beerpay](https://beerpay.io/KeithETruesdell/widget-counter/badge.svg?style=flat-square)](https://beerpay.io/KeithETruesdell/widget-counter)  
+[![Beerpay](https://beerpay.io/KeithETruesdell/widget-counter/make-wish.svg?style=flat-square)](https://beerpay.io/KeithETruesdell/widget-counter?focus=wish)  
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=KeithETruesdell&url=https://github.com/KeithETruesdell/widget-counter&title=widget-counterk&language=&tags=github&category=software)
