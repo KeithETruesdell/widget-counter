@@ -98,6 +98,4 @@ A special **THANK YOU** to all those that helped with snippett and the contribut
 
 ## Donations
 
-[![Beerpay](https://beerpay.io/KeithETruesdell/widget-counter/badge.svg?style=flat-square)](https://beerpay.io/KeithETruesdell/widget-counter)  
-[![Beerpay](https://beerpay.io/KeithETruesdell/widget-counter/make-wish.svg?style=flat-square)](https://beerpay.io/KeithETruesdell/widget-counter?focus=wish)  
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=KeithETruesdell&url=https://github.com/KeithETruesdell/widget-counter&title=widget-counterk&language=&tags=github&category=software)

@@ -5,14 +5,14 @@
   "description": "A widget counter on the status bar.  Originally as a joke and created by AlynxZhou (thank you).",
   "homepage": "https://github.com/KeithETruesdell/widget-counter#readme",
   "keywords": [
+	"counter",
+	"joke",
+    "interrupt",
     "widget",
     "count",
     "increment",
     "tally",
     "upticks",
-    "counter",
-    "joke",
-    "interrupt",
     "slack",
     "decaff",
     "vanillaJS"
