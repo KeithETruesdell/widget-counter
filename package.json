@@ -1,12 +1,12 @@
 {
   "name": "widget-counter",
   "main": "./lib/widget-counter",
-  "version": "1.4.9",
+  "version": "1.4.10",
   "description": "A widget counter on the status bar.  Originally as a joke and created by AlynxZhou (thank you).",
   "homepage": "https://github.com/KeithETruesdell/widget-counter#readme",
   "keywords": [
-	"counter",
-	"joke",
+    "counter",
+    "joke",
     "interrupt",
     "widget",
     "count",
