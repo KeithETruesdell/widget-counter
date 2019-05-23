@@ -51,33 +51,33 @@ Change color of widget counter, both the foreground and background.  Accepts sta
 
 ## Features 
 
-1. Click the counter on the bottom status bar to increment the count
-2. Use the settings to change the display name of the counter
-3. Use the settings to reset or change the value of the counter   
+1. Click the counter on the bottom status bar to increment the count  
+2. Use the settings to change the display name of the counter  
+3. Use the settings to reset or change the value of the counter  
 4. Use the Hotkey `ctrl-shift-up/uparrow` to increment  
-5. Use the hotkey `ctrl-shift-down/downarrow` to decrement 
-6. Use the hotkey `ctrl-shift-left/leftarrow` to reset to zero
-7. Ability to customize and change the foreground and background of the counter area
+5. Use the hotkey `ctrl-shift-down/downarrow` to decrement  
+6. Use the hotkey `ctrl-shift-left/leftarrow` to reset to zero  
+7. Ability to customize and change the foreground and background of the counter area  
 8. Connect to Slack (optional), add token and message and the slack channel to the settings, and it will post new counts there  
 
 ## To Do
 
-- Support for multiple widgets ???
-
+- Support for multiple widgets ???  
+- New requests ???
 
 Any other feature requests, please go to the GitHub Issues page and submit a feature request, or join the community and support the project by contributing.
 
 
-## Issues  
+## Issues
 
 The application is hosted on GitHub.  Please go to the GitHub Issues page, search for your issue.  If you see the same issue listed, please comment and add to the thread.  Otherwise, feel free to add another issue.  
 
 **NOTE:**  
-Hotkeys / keymap / keybindings I found were a bit tricky.  I wanted to use `ctrl-alt-up`,`ctrl-alt-down`,`ctrl-alt-left` or `ctrl-alt-+`,`ctrl-alt--`,`ctrl-alt-0`.   
+Hotkeys / keymap / keybindings were a bit tricky.  The desired use was `ctrl-alt-up`,`ctrl-alt-down`,`ctrl-alt-left` or `ctrl-alt-+`,`ctrl-alt--`,`ctrl-alt-0`.  
 In general, there seems to be some issues with `ctrl-alt-[arrow key]` ceaslessly firing if you hold down the `ctrl-alt` and alternate between `up` and `down` arrows, causing issues with the program.  There are other forums and posts and issues on other atom.io repos and such that people have had the same or similar issue.  The 'ctrl-alt-+` and ctrl-alt--` turned out to be an annoyance because of different keyboards.  
-Some keyboards with a 9-pad recognize the `-` and `+` as the same when `ctrl` or `alt` or both are pressed and others do not.  Some recognize it as `insert` or `end` or something else, causing some issues and inconsistent tests.  I opted for the `ctrl-shift` instead for up/down and `ctrl-shift-alt` for the reset as `ctrl-shift-left` and `ctrl-shift-right` are more for selecting words.  This seems to work across the board.   
+Some keyboards with a 9-pad recognize the `-` and `+` as the same when `ctrl` or `alt` or both are pressed and others do not.  Some recognize it as `insert` or `end` or something else, causing some issues and inconsistent tests.  I opted for the `ctrl-shift` instead for up/down and `ctrl-shift-alt` for the reset as `ctrl-shift-left` and `ctrl-shift-right` are more for selecting words.  This seems to work across the board.  
 Please feel free to disable this or change this to suit your needs.  
-  
+
 
 ## Contributing
 
