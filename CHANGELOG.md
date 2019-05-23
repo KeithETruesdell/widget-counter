@@ -4,14 +4,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.4.10] - 2019-05-23
+## [1.4.11] - 2019-05-23
 ### Changed
 * Updated some JS after putting through 3rd-party code review
 * Updated markdown files to be inline with MD standards
 
-## [1.4.9] - 2019-04-12
+## [1.4.10] - 2019-05-07
 ### Changed
 * Atom.io tags in package.json and order of them
+
+## [1.4.9] - 2019-04-12
+### Changed
+* Updated teh contributing info and links
 
 ## [1.4.0] - 2019-03-12
 ### Fixed
@@ -58,7 +62,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 [@KeithETruesdell]: https://github.com/KeithETruesdell/
 [KeithETruesdell]: https://github.com/KeithETruesdell/
-[Unreleased]: https://github.com/KeithETruesdell/widget-counter/compare/v1.4.10...HEAD
+[Unreleased]: https://github.com/KeithETruesdell/widget-counter/compare/v1.4.11...HEAD
+[1.4.10]: https://github.com/KeithETruesdell/widget-counter/compare/v1.4.11...v1.4.11
 [1.4.10]: https://github.com/KeithETruesdell/widget-counter/compare/v1.4.9...v1.4.10
 [1.4.9]: https://github.com/KeithETruesdell/widget-counter/compare/v1.4.0...v1.4.9
 [1.4.0]: https://github.com/KeithETruesdell/widget-counter/compare/v1.3.1...v1.4.0
