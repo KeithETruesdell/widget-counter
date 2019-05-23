@@ -63,7 +63,7 @@ Change color of widget counter, both the foreground and background.  Accepts sta
 ## To Do
 
 - Support for multiple widgets ???  
-- New requests ???
+- New requests ???  
 
 Any other feature requests, please go to the GitHub Issues page and submit a feature request, or join the community and support the project by contributing.
 
@@ -94,7 +94,6 @@ MIT Licesnse.  See the the [license](https://github.com/KeithETruesdell/widget-c
 A special **THANK YOU** to all those that helped with snippett and the contributors of this project!
 
 [Alynx Zhou](https://github.com/AlynxZhou) (Original creator - thank you!)
-
 
 ## Donations
 
