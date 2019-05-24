@@ -6,59 +6,59 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.4.11] - 2019-05-23
 ### Changed
-* Updated some JS after putting through 3rd-party code review
-* Updated markdown files to be inline with MD standards
+- Updated some JS after putting through 3rd-party code review
+- Updated markdown files to be inline with MD standards
 
 ## [1.4.10] - 2019-05-07
 ### Changed
-* Atom.io tags in package.json and order of them
+- Atom.io tags in package.json and order of them
 
 ## [1.4.9] - 2019-04-12
 ### Changed
-* Updated teh contributing info and links
+- Updated the contributing info and links
 
 ## [1.4.0] - 2019-03-12
 ### Fixed
-* Slack "integration" - post messages into slack channel using token (fixed bug)
+- Slack "integration" - post messages into slack channel using token (fixed bug)
 
 ## [1.3.1] - 2019-03-10
 ### Added
-* Added color options
+- Added color options
 
 ## [1.2.0] - 2019-03-09
-* First Atom.io Publish (for [@KeithETruesdell] under new repo and package name)
+- First Atom.io Publish (for [@KeithETruesdell] under new repo and package name)
 
 ## [0.1.0] - 2019-03-09
 ### Changed
-* Updated Readme
-* Updated license
-* Updated working JS
+- Updated Readme
+- Updated license
+- Updated working JS
 
 ### Added 
-* Created CONTRIBUTING file
+- Created CONTRIBUTING file
 
 ## [0.0.5] - 2019-03-08
 ### Changed
-* Renamed to Widget Counter
+- Renamed to Widget Counter
 
 ## [0.0.4] - 2019-03-08
 ### Changed
-* Code Changed to JS isntead of CoffeeScript (sorry)
-* Updated Readme
+- Code Changed to JS isntead of CoffeeScript (sorry)
+- Updated Readme
 
 ## [0.0.3] - 2019-03-07 - Forked Repo
 ### Added
-* Keymap for quick counting and reset
-* Reset function
+- Keymap for quick counting and reset
+- Reset function
 
 ## [0.0.2] - 2017-11-26
 ### Changed
-* Code changed
+- Code changed
 
 ## [0.0.1] - 2017-11-24 First Release
 ### Changed
-* Every feature added
-* Every bug fixed
+- Every feature added
+- Every bug fixed
 
 [@KeithETruesdell]: https://github.com/KeithETruesdell/
 [KeithETruesdell]: https://github.com/KeithETruesdell/

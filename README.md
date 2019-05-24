@@ -3,6 +3,8 @@
 [![Installs!](https://img.shields.io/apm/dm/widget-counter.svg?style=flat-square)](https://atom.io/packages/widget-counter)
 [![Version!](https://img.shields.io/apm/v/widget-counter.svg?style=flat-square)](https://atom.io/packages/widget-counter)
 [![License](https://img.shields.io/apm/l/widget-counter.svg?style=flat-square)](https://github.com/KeithETruesdell/widget-counter/blob/master/LICENSE.md)  
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/16519164938348efad662df5841bd21a)](https://www.codacy.com/app/keithetruesdell/widget-counter?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KeithETruesdell/widget-counter&amp;utm_campaign=Badge_Grade)
+
 
 [![GitHub stars](https://img.shields.io/github/stars/KeithETruesdell/widget-counter.svg?style=social&label=Star)](https://github.com/KeithETruesdell/widget-counter)
 [![GitHub forks](https://img.shields.io/github/forks/KeithETruesdell/widget-counter.svg?style=social&label=Fork)](https://github.com/KeithETruesdell/widget-counter)  
