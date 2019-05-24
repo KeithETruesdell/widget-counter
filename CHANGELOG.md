@@ -58,12 +58,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Code changed
 
 ## [0.0.1] - 2017-11-24 First Release
-### Changed (by [@AlynxZhou])
+### Changed
 - Every feature added
 - Every bug fixed
 
-[@AlynxZhou]: https://github.com/AlynxZhou
-[@KeithETruesdell]: https://github.com/KeithETruesdell/
+
+[AlynxZhou]: https://github.com/AlynxZhou
+[KeithETruesdell]: https://github.com/KeithETruesdell/
 [Unreleased]: https://github.com/KeithETruesdell/widget-counter/compare/v1.4.11...HEAD
 [1.4.11]: https://github.com/KeithETruesdell/widget-counter/compare/v1.4.10...v1.4.11
 [1.4.10]: https://github.com/KeithETruesdell/widget-counter/compare/v1.4.9...v1.4.10

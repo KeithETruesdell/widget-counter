@@ -37,7 +37,7 @@ Use the settings to also change the name of the counter displayed in the statusb
 Click the counter area in the lower right on the status bar.  
 ![Click the counter area in the lower right on the status bar](img/counter-click.gif)
 
-You can edit the name of the counter to be more appropriate, or more discrete as well.   
+You can edit the name of the counter to be more appropriate, or more discrete as well.  
 ![You can edit the name of the counter to be more appropriate, or more discrete as well.](img/counter-name-change.gif)
 
 Using the hotkeys to quickly increment, decrement and reset everything.  
@@ -50,21 +50,21 @@ Change color of widget counter, both the foreground and background.  Accepts sta
 
 ![Original screenshot](img/usage.png)
 
-## Features 
+## Features
 
-1. Click the counter on the bottom status bar to increment the count  
-2. Use the settings to change the display name of the counter  
-3. Use the settings to reset or change the value of the counter  
-4. Use the Hotkey `ctrl-shift-up/uparrow` to increment  
-5. Use the Hotkey `ctrl-shift-down/downarrow` to decrement  
-6. Use the Hotkey `ctrl-shift-left/leftarrow` to reset to zero  
-7. Ability to customize and change the foreground and background of the counter area  
-8. Connect to Slack (optional), add token and message and the slack channel to the settings, and it will post new counts there  
+1. Click the counter on the bottom status bar to increment the count
+2. Use the settings to change the display name of the counter
+3. Use the settings to reset or change the value of the counter
+4. Use the Hotkey (`ctrl-shift-up/uparrow`) to increment
+5. Use the Hotkey (`ctrl-shift-down/downarrow`) to decrement
+6. Use the Hotkey (`ctrl-shift-left/leftarrow`) to reset to zero
+7. Ability to customize and change the foreground and background of the counter area
+8. Connect to Slack (optional), add token and message and the slack channel to the settings, and it will post new counts there
 
 ## To Do
 
-- Support for multiple widgets ???  
-- New requests ???  
+- Support for multiple widgets (?)
+- New requests (?)
 
 Any other feature requests, please go to the GitHub Issues page and submit a feature request, or join the community and support the project by contributing.
 
