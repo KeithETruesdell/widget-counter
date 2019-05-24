@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.4.12] - 2019-05-24
+### Changed
+- Code review, mostly markdown changes
+
 ## [1.4.11] - 2019-05-23
 ### Changed
 - Updated some JS after putting through 3rd-party code review
@@ -66,7 +70,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 [@AlynxZhou]: https://github.com/alynxzhou/
 [@KeithETruesdell]: https://github.com/keithetruesdell/
-[Unreleased]: https://github.com/keithetruesdell/widget-counter/compare/v1.4.11...HEAD
+[Unreleased]: https://github.com/keithetruesdell/widget-counter/compare/v1.4.12...HEAD
+[1.4.12]: https://github.com/keithetruesdell/widget-counter/compare/v1.4.11...v1.4.12
 [1.4.11]: https://github.com/keithetruesdell/widget-counter/compare/v1.4.10...v1.4.11
 [1.4.10]: https://github.com/keithetruesdell/widget-counter/compare/v1.4.9...v1.4.10
 [1.4.9]: https://github.com/keithetruesdell/widget-counter/compare/v1.4.0...v1.4.9
