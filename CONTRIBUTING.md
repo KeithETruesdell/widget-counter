@@ -9,9 +9,9 @@ Please note there is a code of conduct, please follow it in all your interaction
 ## Pull Request Process
 
 1. Fork, then clone the repo:  
-	`git clone ...`
-	NOTE: It is recommended to setup your own branch and commit and merge there initially, using the Master branch for testing before submitting the Pull request.
-	If you are part of the main development team, please use the appropriate branch for the changes, or create a new branch off of the Dev Branch.  Only hotfixes should be branched from the master branch.
+	`git clone ...`  
+	NOTE: It is recommended to setup your own branch and commit and merge there initially, using the Master branch for testing before submitting the Pull request.  
+	If you are part of the main development team, please use the appropriate branch for the changes, or create a new branch off of the Dev Branch.  Only hotfixes should be branched from the master branch.  
 2. Ensure any install or build dependencies are removed before the end of the layer when doing a build.  
 3. Update the code making appropriate changes relevant to the issue.  Please keep the Repository clean and clear.  
 	Maintain extraneous files.  System, OS and IDE generated files should **not** be tracked and committed and should be added to the `.gitignore` if needed.  This could be maintained locally.  
