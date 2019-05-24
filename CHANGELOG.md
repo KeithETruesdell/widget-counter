@@ -28,7 +28,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added color options
 
 ## [1.2.0] - 2019-03-09
-- First Atom.io Publish (for [@KeithETruesdell] under new repo and package name)
+- First Atom.io Publish (by [KeithETruesdell] under new repo and package name)
 
 ## [0.1.0] - 2019-03-09
 ### Changed
@@ -54,7 +54,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Reset function
 
 ## [0.0.2] - 2017-11-26
-### Changed (by [@AlynxZhou])
+### Changed
+- Last commit by [AlynxZhou]
 - Code changed
 
 ## [0.0.1] - 2017-11-24 First Release
