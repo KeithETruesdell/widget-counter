@@ -9,23 +9,23 @@ Please note, there is a code of conduct.  Please follow it in all your interacti
 ## Pull Request Process
 
 1. Fork, then clone the repo.  
-> `git clone ...`  
-  NOTE: It is recommended to setup your own branch and commit and merge there initially, using the Master branch for testing before submitting the Pull request.  
-  If you are part of the main development team, please use the appropriate branch for the changes, or create a new branch off of the Dev Branch.  Only hotfixes should be branched from the master branch.  
+ `git clone ...`  
+ NOTE: It is recommended to setup your own branch and commit and merge there initially, using the Master branch for testing before submitting the Pull request.  
+ If you are part of the main development team, please use the appropriate branch for the changes, or create a new branch off of the Dev Branch.  Only hotfixes should be branched from the master branch.  
 2. Ensure any install or build dependencies are removed before the end of the layer when doing a build.  
 3. Update the code making appropriate changes relevant to the issue.  Please keep the Repository clean and clear. Maintain extraneous files.  System, OS and IDE generated files should **not** be tracked and committed and should be added to the `.gitignore` if needed.  This could be maintained locally.  
-> Do not remove any information from the `.gitignore` without approval.
+ Do not remove any information from the `.gitignore` without approval.
 4. Update the `CHANGELOG.md` with the version, date, released status, user and simple notes on what has changed.  For consistency and ease of reading, please keep the same format.  
-> Also, update the `README.md` with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters.  
-  If needed, make sure to update the `TODO.md` or any feature list or task list with the correct actions.  
-  Ensure that the created ticket that reflects the updates has been marked to either a "review" status or a "closed" status depending on if the changes have been approved and merged.  
+ Also, update the `README.md` with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters.  
+ If needed, make sure to update the `TODO.md` or any feature list or task list with the correct actions.  
+ Ensure that the created ticket that reflects the updates has been marked to either a "review" status or a "closed" status depending on if the changes have been approved and merged.  
 5. Increase the version numbers in any examples files and the `README.md` to the new version that this Pull Request would represent.  
-> The versioning scheme we use is [SemVer](http://semver.org/) ([http://semver.org/](http://semver.org/)).  
+ The versioning scheme we use is [SemVer](http://semver.org/) ([http://semver.org/](http://semver.org/)).  
 6. Commit the changes, writing good and clear commit messages.  
 7. Push to your fork.  
 8. Create a [pull request](https://github.com/).  
-9. You may merge the Pull Request once you have the sign-off of the other developers, or if you do not have permission to do that, you may request a senior developer to merge it for you.
->  If you are part of the main development team, and this is a branch, merge the branch into the DEV branch and submit a pull request.  You may merge it yourself after recieving documented approval.  
+9. You may merge the Pull Request once you have the sign-off of the other developers, or if you do not have permission to do that, you may request a senior developer to merge it for you.  
+ If you are part of the main development team, and this is a branch, merge the branch into the DEV branch and submit a pull request.  You may merge it yourself after recieving documented approval.  
 
 **NOTE:**  At this time, your pull request is waiting on us to approve the changes.  It may take a few days, please be patient, though we strive to get to all requests within 3-5 days.
 
