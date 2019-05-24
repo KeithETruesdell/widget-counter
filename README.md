@@ -1,4 +1,5 @@
 # Widget Counter
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/534ece23c1ce45128dba180c26706939)](https://app.codacy.com/app/keithetruesdell/widget-counter?utm_source=github.com&utm_medium=referral&utm_content=KeithETruesdell/widget-counter&utm_campaign=Badge_Grade_Dashboard)
 [![Last Commit](https://img.shields.io/github/last-commit/KeithETruesdell/widget-counter/master.svg?style=flat-square)](https://img.shields.io/github/last-commit/KeithETruesdell/widget-counter/master.svg?style=flat-square)
 [![Installs!](https://img.shields.io/apm/dm/widget-counter.svg?style=flat-square)](https://atom.io/packages/widget-counter)
 [![Version!](https://img.shields.io/apm/v/widget-counter.svg?style=flat-square)](https://atom.io/packages/widget-counter)
