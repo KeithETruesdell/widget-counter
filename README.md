@@ -19,15 +19,14 @@ A great little tool to help count things, whether its a joke or soemthing a bit 
 
 
 ## The Joke
-
+---
 - Chinese Version
 
-	我看到 Hackghost 的桌面上有一个计数器，上面显示数字“233”，于是我好奇地去问他这个计数器代表什么意思。他回答说：“这个数字代表了我今天被蠢货们打断了工作的次数”。说完他又按了一下计数器按钮，于是现在数字变为“234”了。
+  我看到 Hackghost 的桌面上有一个计数器，上面显示数字“233”，于是我好奇地去问他这个计数器代表什么意思。他回答说：“这个数字代表了我今天被蠢货们打断了工作的次数”。说完他又按了一下计数器按钮，于是现在数字变为“234”了。
 
 - English Version Translated by AlynxZhou
 
-	I saw a counter on Hackghost's desktop showing a number "233", and I asked him what it means curiously. He said "That represents how many times I was interrupted by idiots today". After speaking he pressed the button of the counter again, and then the number became "234".
-
+  I saw a counter on Hackghost's desktop showing a number "233", and I asked him what it means curiously. He said "That represents how many times I was interrupted by idiots today". After speaking he pressed the button of the counter again, and then the number became "234".
 
 ## Usage
 
@@ -47,9 +46,9 @@ Using the hotkeys to quickly increment, decrement and reset everything.
 Change color of widget counter, both the foreground and background.  Accepts standard color words, and html hex values.  
 ![Change color of the widget counter](img/counter-color-change.png)
 
-## Images  
-![Original screenshot](img/usage.png)
+## Images
 
+![Original screenshot](img/usage.png)
 
 ## Features 
 
@@ -57,8 +56,8 @@ Change color of widget counter, both the foreground and background.  Accepts sta
 2. Use the settings to change the display name of the counter  
 3. Use the settings to reset or change the value of the counter  
 4. Use the Hotkey `ctrl-shift-up/uparrow` to increment  
-5. Use the hotkey `ctrl-shift-down/downarrow` to decrement  
-6. Use the hotkey `ctrl-shift-left/leftarrow` to reset to zero  
+5. Use the Hotkey `ctrl-shift-down/downarrow` to decrement  
+6. Use the Hotkey `ctrl-shift-left/leftarrow` to reset to zero  
 7. Ability to customize and change the foreground and background of the counter area  
 8. Connect to Slack (optional), add token and message and the slack channel to the settings, and it will post new counts there  
 
@@ -68,7 +67,6 @@ Change color of widget counter, both the foreground and background.  Accepts sta
 - New requests ???  
 
 Any other feature requests, please go to the GitHub Issues page and submit a feature request, or join the community and support the project by contributing.
-
 
 ## Issues
 
@@ -80,7 +78,6 @@ In general, there seems to be some issues with `ctrl-alt-[arrow key]` ceaslessly
 Some keyboards with a 9-pad recognize the `-` and `+` as the same when `ctrl` or `alt` or both are pressed and others do not.  Some recognize it as `insert` or `end` or something else, causing some issues and inconsistent tests.  I opted for the `ctrl-shift` instead for up/down and `ctrl-shift-alt` for the reset as `ctrl-shift-left` and `ctrl-shift-right` are more for selecting words.  This seems to work across the board.  
 Please feel free to disable this or change this to suit your needs.  
 
-
 ## Contributing
 
 Pull requests are welcome.  Please see the guidelines in the CONTRIBUTING.md document.  This community does have a code of conduct associated with contributions.  I am open to changes, updates and fixes.  Please, open an issue first to discuss what the change is, and then follow the guidelines.  
@@ -91,7 +88,7 @@ Atom's [contributing guide](https://github.com/atom/atom/blob/master/CONTRIBUTIN
 
 MIT Licesnse.  See the the [license](https://github.com/KeithETruesdell/widget-counter/LISENCE.md) for more details.
 
-## Thank you  
+## Thank you
 
 A special **THANK YOU** to all those that helped with snippett and the contributors of this project!
 
